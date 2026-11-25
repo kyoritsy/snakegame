@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/kyoritsy/projects/snakegame/build",
+  "command": "/usr/bin/c++  -I/home/kyoritsy/projects/snakegame/include -std=gnu++17 -o CMakeFiles/snake.dir/main.cpp.o -c /home/kyoritsy/projects/snakegame/main.cpp",
+  "file": "/home/kyoritsy/projects/snakegame/main.cpp",
+  "output": "CMakeFiles/snake.dir/main.cpp.o"
+},
+{
+  "directory": "/home/kyoritsy/projects/snakegame/build",
+  "command": "/usr/bin/c++  -I/home/kyoritsy/projects/snakegame/include -std=gnu++17 -o CMakeFiles/snake.dir/src/Snake.cpp.o -c /home/kyoritsy/projects/snakegame/src/Snake.cpp",
+  "file": "/home/kyoritsy/projects/snakegame/src/Snake.cpp",
+  "output": "CMakeFiles/snake.dir/src/Snake.cpp.o"
+},
+{
+  "directory": "/home/kyoritsy/projects/snakegame/build",
+  "command": "/usr/bin/c++  -I/home/kyoritsy/projects/snakegame/include -std=gnu++17 -o CMakeFiles/snake.dir/src/Game.cpp.o -c /home/kyoritsy/projects/snakegame/src/Game.cpp",
+  "file": "/home/kyoritsy/projects/snakegame/src/Game.cpp",
+  "output": "CMakeFiles/snake.dir/src/Game.cpp.o"
+}
+]
